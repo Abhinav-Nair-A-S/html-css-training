@@ -1,0 +1,20 @@
+.dept{
+    margin-top: 250px;
+    width: 90%;
+    margin-left: 50px;
+}
+.pic-text{
+    display: flex;
+}
+.pic-text .pic-one, .pic-two, .pic-three{
+    margin: 10px;
+}
+.pic-text img{
+    width: 100%;
+}
+.pic-text p{
+    text-align: justify;
+}
+.pic-text a{
+    color: turquoise;
+}
