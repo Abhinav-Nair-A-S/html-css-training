@@ -1,0 +1,26 @@
+.interest{
+    margin-top: 100px;
+    width: 90%;
+    margin-left: 50px;
+}
+.interest h2{
+    text-align: center;
+}
+.interest .int-pic-text{
+    display: flex;
+}
+.int-pic-text img{
+    width: 100%;
+}
+.int-pic-text p{
+    margin-top: -10px;
+    font-size: 14px;
+    text-align: justify;
+}
+.int-pic-text p a{
+    text-decoration: none;
+    color: #17C1A3;
+}
+.int-pic-text .int-pic-one, .int-pic-two, .int-pic-three{
+    margin: 10px;
+}
