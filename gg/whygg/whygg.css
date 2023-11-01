@@ -14,11 +14,11 @@
     padding-right: 50px;
 }
 .why-gg h3{
-    margin-top: 150px;
+    margin-top: 100px;
     margin-left: 25px;
 }
 .why-gg .points ul li{
     list-style: none;
-    list-style-image: url(gg\whygg\images\point.png);
+    list-style-image: url("/gg/whygg/images/point.png");
     padding-top: 20px;
 }
