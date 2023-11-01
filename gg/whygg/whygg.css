@@ -1,0 +1,24 @@
+.why-gg{
+    width: 90%;
+    display: flex;
+    margin-left: 50px;
+    margin-top: 125px;
+}
+.why-gg img{
+    width: 100%;
+    height: 500px;
+}
+.why-gg .points{
+    height: 500px;
+    background: #EAF2FF;
+    padding-right: 50px;
+}
+.why-gg h3{
+    margin-top: 150px;
+    margin-left: 25px;
+}
+.why-gg .points ul li{
+    text-decoration: none;
+    list-style-image: url(\gg\whygg\images\point.png);
+    padding-top: 20px;
+}
