@@ -1,8 +1,6 @@
 .body{
   background: linear-gradient(rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.65)), 
-  url(images/back.jpg) no-repeat;
-
-  
+  url(images/back.jpg) no-repeat;  
 }
 .header{
   display: flex;
@@ -29,21 +27,21 @@
   color: white;
   align-items: center;
   padding-left: 300px;
-background-color: coral;
 border-radius: 10px;
+background-image: linear-gradient(to right, gold, silver);
 }
 .navbar nav a {
   padding-right: 10px;
   text-decoration: none;
-  color: black;
+  color: white;
   border-right: 2px  black;
 }
 .navbar nav a:hover:not(#selected) {
   background-color: gray;
 }
 .navbar nav a#selected {
-  background-color: greenyellow;
-  color: green;
+  background-color: indianred;
+  color: black;
 }
 .introduction {
     background: linear-gradient(rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.65)), 
