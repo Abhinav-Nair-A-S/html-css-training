@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+}
+.header .image{
+    flex: 1;
+}
+.header .navbar{
+    flex: 3;
+    text-align: end;
+    padding-top: 25px;
+}
+.header .navbar a{
+    text-decoration: none;
+    color: black;
+    padding-right: 20px;
+}
+.navbar a:hover {
+    color: red;
+}
+.navbar a#active {
+    color: red;
+}

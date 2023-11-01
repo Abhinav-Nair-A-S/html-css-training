@@ -1,0 +1,180 @@
+.body{
+  background: linear-gradient(rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.65)), 
+  url(images/back.jpg) no-repeat;
+
+  
+}
+.header{
+  display: flex;
+  height: 125px; 
+  background-color: rgb(179, 201, 215);
+  margin-bottom: 5px;
+}
+.header img{
+  margin-top: 200px;
+  margin-right: 250px;
+  height: 210px;
+}
+.header .name{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-right: 70px;
+  padding-left: 70px;
+  color: black;
+  background-color: lightgoldenrodyellow;
+  border-radius: 50px;
+  text-align: center;
+}
+.navbar nav {
+  color: white;
+  align-items: center;
+  padding-left: 300px;
+background-color: coral;
+border-radius: 10px;
+}
+.navbar nav a {
+  padding-right: 10px;
+  text-decoration: none;
+  color: black;
+  border-right: 2px  black;
+}
+.navbar nav a:hover:not(#selected) {
+  background-color: gray;
+}
+.navbar nav a#selected {
+  background-color: greenyellow;
+  color: green;
+}
+.introduction {
+    background: linear-gradient(rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.65)), 
+                url(images/intro\(1\).jpg);
+  background-repeat: no-repeat;
+  background-size: 600px 300px;
+  border-radius: 10px;
+  font-weight: 600;
+  color: black;
+  font-size: 18px;
+  height: 300px;
+  width: 600px;
+  margin-bottom: 20px;
+  margin-left: 320px;
+}
+.skills {
+    background: linear-gradient(rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.65)), 
+                url(images/skill.jpg);
+    background-repeat: no-repeat;
+    background-size: 600px 300px;
+    border-radius: 10px;
+    font-weight: 600;
+    color: black;
+    font-size: 18px;
+    height: 300px;
+    width: 600px;
+    margin-bottom: 20px;
+    margin-left: 320px;
+}
+.education {
+    background: linear-gradient(rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.65)), 
+                url(images/educ.jpg);
+    background-repeat: no-repeat;
+    background-size: 600px 300px;
+    border-radius: 10px;
+    font-weight: 600;
+    color: black;
+    font-size: 18px;
+    height: 300px;
+    width: 600px;
+    margin-bottom: 20px;
+    margin-left: 320px;
+}
+.interest {
+    background: linear-gradient(rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.65)), 
+                url(images/int.jpg);
+    background-repeat: no-repeat;
+    background-size: 600px 300px;
+    border-radius: 10px;
+    font-weight: 600;
+    color: black;
+    font-size: 18px;
+    height: 300px;
+    width: 600px;
+    margin-bottom: 20px;
+    margin-left: 320px;
+}
+.languages {
+    background: linear-gradient(rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.65)), 
+                url(images/lan.jpg);
+    background-repeat: no-repeat;
+    background-size: 600px 300px;
+    border-radius: 10px;
+    font-weight: 600;
+    color: black;
+    font-size: 18px;
+    height: 300px;
+    width: 600px;
+    margin-bottom: 20px;
+    margin-left: 320px;
+}
+.projects {
+    background: linear-gradient(rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.65)), 
+                url(images/proj.jpg);
+    background-repeat: no-repeat;
+    background-size: 600px 300px;
+    border-radius: 10px;
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+    height: 300px;
+    width: 600px;
+    margin-bottom: 20px;
+    margin-left: 320px;
+}
+.strength {
+    background: linear-gradient(rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.65)), 
+                url(images/str.jpg);
+    background-repeat: no-repeat;
+    background-size: 600px 300px;
+    border-radius: 10px;
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+    height: 300px;
+    width: 600px;
+    margin-bottom: 20px;
+    margin-left: 320px;
+}
+.education table,
+tr,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+}
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(237, 233, 233);
+    color: black;
+    border-radius: 6px;
+ }
+.footer h2{
+  padding-left: 30px;
+  margin-bottom: -5px;
+}
+ .details{
+  display: flex;
+ }
+.details #address{
+  padding-left: 100px;
+  text-align: center;
+}
+ .details #phone{
+  padding-left: 300px;
+  text-align: center;
+ }
+ .details #email{
+  padding-left: 250px;
+  text-align: center;
+ }

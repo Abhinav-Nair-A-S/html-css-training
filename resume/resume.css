@@ -1,0 +1,40 @@
+.container{
+    width: 100%;
+    background-color: black;
+}
+.header{
+    display: flex;
+    height: 125px; 
+    background-color: lightskyblue;
+    margin: 10px;
+}
+.header img{
+    height: 150px;
+    border-radius: 50%;
+}
+.header .name{
+    color: black;
+}
+.details{
+    display: flex;
+}
+.left{
+    flex: 1;
+    color: black;
+    background-color: lightsalmon;
+    margin: 10px;
+    padding-left: 10px;
+}
+.right{
+    background-color: rgb(189, 179, 179);
+    color: black;
+    flex: 2;
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.education table,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
