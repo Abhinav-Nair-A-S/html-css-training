@@ -1,0 +1,17 @@
+.facilities{
+    margin-top: 100px;
+    width: 90%;
+    margin-left: 50px;
+}
+.facilities h2{
+    text-align: center;
+}
+.facil-pic{
+    display: flex;
+}
+.facil-pic img{
+    width: 100%;
+}
+.facil-pic .facil-pic-one, .facil-pic-two, .facil-pic-three{
+    margin: 10px;
+}
