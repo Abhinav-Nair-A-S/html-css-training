@@ -1,5 +1,7 @@
 .header{
+    width: 90%;
     display: flex;
+    margin-left: 50px;
 }
 .header .image{
     flex: 1;

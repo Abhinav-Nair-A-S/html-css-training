@@ -18,7 +18,7 @@
     margin-left: 25px;
 }
 .why-gg .points ul li{
-    text-decoration: none;
-    list-style-image: url(\gg\whygg\images\point.png);
+    list-style: none;
+    list-style-image: url(gg\whygg\images\point.png);
     padding-top: 20px;
 }
