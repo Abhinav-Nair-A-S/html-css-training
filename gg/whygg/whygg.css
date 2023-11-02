@@ -12,13 +12,29 @@
     height: 500px;
     background: #EAF2FF;
     padding-right: 50px;
+    margin-left: -10px;
 }
 .why-gg h3{
     margin-top: 100px;
     margin-left: 25px;
 }
+.all-points{
+    display: flex;
+}
+.all-points img{
+    height: 25px;
+    width: 25px;
+}
+.all-points .point-text{
+    margin-left: -10px;
+}
+.why-gg .points ul img{
+    height: 25px;
+    width: 25px;
+    margin-top: 3px;
+    margin-right: -10px;
+}
 .why-gg .points ul li{
     list-style: none;
-    list-style-image: url("/gg/whygg/images/point.png");
     padding-top: 20px;
 }

@@ -5,6 +5,7 @@
 }
 .navigation .image{
     flex: 1;
+    width: 100%;
 }
 .navigation .navbar{
     flex: 3;
@@ -14,7 +15,7 @@
 .navigation .navbar a{
     text-decoration: none;
     color: black;
-    padding-right: 20px;
+    padding-right: 15px;
 }
 .navbar a:hover {
     color: red;

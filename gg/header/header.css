@@ -1,6 +1,7 @@
 .header{
     display: flex;
-    background-color: rgb(236, 236, 236);
+    background-color: #F5F5F5;
+    ;
 }
 .header img{
     height: 20px;
