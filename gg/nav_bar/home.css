@@ -1,17 +1,17 @@
-.header{
+.navigation{
     width: 90%;
     display: flex;
     margin-left: 50px;
 }
-.header .image{
+.navigation .image{
     flex: 1;
 }
-.header .navbar{
+.navigation .navbar{
     flex: 3;
     text-align: end;
     padding-top: 25px;
 }
-.header .navbar a{
+.navigation .navbar a{
     text-decoration: none;
     color: black;
     padding-right: 20px;
